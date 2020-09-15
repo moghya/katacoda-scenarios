@@ -6,16 +6,52 @@
   "details": {
     "steps": [
       {
-        "title": "List local docker images",
-        "text": "step1.md"
+        "title": "Problem and possible solution",
+        "text": "problem.md"
       },
       {
-        "title": "Pull docker image",
-        "text": "step2.md"
+        "title": "What is and why Container",
+        "text": "container.md"
       },
       {
-        "title": "Create container from docker image",
-        "text": "step3.md"
+        "title": "What is and why docker",
+        "text": "docker.md"
+      },
+      {
+        "title": "docker ps",
+        "text": "ps.md"
+      },
+      {
+        "title": "docker images",
+        "text": "images.md"
+      },
+      {
+        "title": "docker pull",
+        "text": "pull.md"
+      },
+      {
+        "title": "docker create, run, exec",
+        "text": "run.md"
+      },
+      {
+        "title": "docker stop, kill, rm",
+        "text": "rm.md"
+      },
+      {
+        "title": "docker port : Static Site",
+        "text": "port.md"
+      },
+      {
+        "title": "docker build : Dockerfile",
+        "text": "build.md"
+      },
+      {
+        "title": "docker cheatsheet",
+        "text": "cheatsheet.md"
+      },
+      {
+        "title": "How docker does the wonders that it does",
+        "text": "internals.md"
       }
     ],
     "intro": {
@@ -30,6 +66,6 @@
     "uimessage1": "\u001b[32mFOSS Workshop organised by Dept of IT at WCE, Sangli\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "ubuntu"
   }
 }
