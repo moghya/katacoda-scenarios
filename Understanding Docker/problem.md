@@ -20,3 +20,5 @@
 ## Solution:
 Build something that provides mechanisms of doing all that is mentioned in requirements.
 Would be better if it's flexible in a way that policies can be defined on top of provided mechanisms.
+
+`echo "let solve some problems"`{{execute}}
