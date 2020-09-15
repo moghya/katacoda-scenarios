@@ -1,6 +1,6 @@
 {
   "title": "Understanding Docker",
-  "description": "Step by Step understand how to use Docker.",
+  "description": "Step by Step understand what is Docker and how to use it.",
   "difficulty": "Beginner",
   "time": "40",
   "details": {
@@ -18,28 +18,8 @@
         "text": "docker.md"
       },
       {
-        "title": "docker ps",
-        "text": "ps.md"
-      },
-      {
-        "title": "docker images",
-        "text": "images.md"
-      },
-      {
-        "title": "docker pull",
-        "text": "pull.md"
-      },
-      {
-        "title": "docker create, run, exec",
-        "text": "run.md"
-      },
-      {
-        "title": "docker stop, kill, rm",
-        "text": "rm.md"
-      },
-      {
-        "title": "docker port : Static Site",
-        "text": "port.md"
+        "title": "How to use Docker",
+        "text": "docker_commands.md"
       },
       {
         "title": "docker build : Dockerfile",

@@ -1,5 +1,3 @@
-# What is Container:
-
 - `container /kənˈteɪnə/` : an object for holding or transporting something.
 
 - A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
@@ -18,11 +16,12 @@ We'll deep dive post understanding how to use containers.
 
 Let's clarify once how containers are different than virtual machines.
 
-# What is Virtual Machine:
+## What is Virtual Machine:
+
 - A virtual machine (VM) is an operating system that shares the physical resources of one server. It is a guest on the host’s hardware, which is why it is also called a guest machine.
 
 
-# Container vs Virtual Machine:
+## Container vs Virtual Machine:
 
 ![Container](./images/container-elements.png)
 
