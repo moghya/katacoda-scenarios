@@ -8,8 +8,15 @@
 5. Installtion and manging this application is one hell of a task.
 
 
-## Requirements:
+
+## Requirements for solving above problem:
 1. How to get software to run reliably when moved from one computing environment to another.
 2. Resolve conflicts between programs.
 3. Limiting amount of resource usage by an application.
 4. Better interface for managing lifecycle of processes.
+
+
+
+## Solution:
+Build something that provides mechanisms of doing all that is mentioned in requirements.
+Would be better if it's flexible in a way that policies can be defined on top of provided mechanisms.
