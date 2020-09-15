@@ -1,0 +1,26 @@
+{
+  "title": "Hello World with Docker",
+  "description": "This scenario will give initial idea about running process in docker.",
+  "difficulty": "Beginner",
+  "time": "3",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
