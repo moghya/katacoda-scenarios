@@ -18,15 +18,47 @@
         "text": "docker.md"
       },
       {
-        "title": "How to use Docker",
-        "text": "docker_commands.md"
+        "title": "List Containers",
+        "text": "ps.md"
       },
       {
-        "title": "docker build : Dockerfile",
+        "title": "List Images",
+        "text": "images.md"
+      },
+      {
+        "title": "Pull Docker Image",
+        "text": "pull.md"
+      },
+      {
+        "title": "Create Container from Image",
+        "text": "create.md"
+      },
+      {
+        "title": "Start Container",
+        "text": "start.md"
+      },
+      {
+        "title": "Run Container",
+        "text": "run.md"
+      },
+      {
+        "title": "Remove Container",
+        "text": "rm.md"
+      },
+      {
+        "title": "Containers involving network services",
+        "text": "network.md"
+      },
+      {
+        "title": "Stop container",
+        "text": "stop.md"
+      },
+      {
+        "title": "Build Image: Dockerfile",
         "text": "build.md"
       },
       {
-        "title": "docker cheatsheet",
+        "title": "Revice Docker Commands",
         "text": "cheatsheet.md"
       },
       {
