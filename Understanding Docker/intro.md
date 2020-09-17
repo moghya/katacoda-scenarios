@@ -5,9 +5,12 @@ It is not a goto guide for any issue that you would face while working with Cont
 
 ## Index:
 
+### Part I:
 1. Problem and Possible solution
 2. What is Container
 3. What is Docker
+
+### Part II:
 4. Docker Commands 
    1. List Containers
    2. List Images
@@ -18,10 +21,24 @@ It is not a goto guide for any issue that you would face while working with Cont
    7. Remove Container
    8. Containers involving network services
    9. Stop Container
+
+### Part III:
 5. What is Dockerfile
    1. Dockerfile Instructions
 6. Build, Share and Run Docker Image
-7. How containers and docker work internally
+
+### Part IV:
+7. Docker Internals
+   1. Docker components
+      1. Docker Client
+      2. Docker Deamon
+      3. DockerHub
+   2. Containerisation primitives
+      1. CGroups
+      2. Namespaces
+      3. Layered Filesystem
+
+### Appendix:
 8. References
 
 Let's get going.

@@ -62,7 +62,7 @@
         "text": "build.md"
       },
       {
-        "title": "How containers and docker work internally",
+        "title": "Docker Internals",
         "text": "internals.md"
       },
       {
