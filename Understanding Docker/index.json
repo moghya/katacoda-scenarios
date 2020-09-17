@@ -2,7 +2,7 @@
   "title": "Understanding Docker",
   "description": "Step by Step understand what is Docker and how to use it.",
   "difficulty": "Beginner",
-  "time": "40",
+  "time": "90",
   "details": {
     "steps": [
       {
@@ -54,16 +54,20 @@
         "text": "stop.md"
       },
       {
-        "title": "Build Image: Dockerfile",
+        "title": "What is Dockerfile",
+        "text": "dockerfile.md"
+      },
+      {
+        "title": "Build, Share and Run Docker Image",
         "text": "build.md"
       },
       {
-        "title": "Revice Docker Commands",
-        "text": "cheatsheet.md"
+        "title": "How containers and docker work internally",
+        "text": "internals.md"
       },
       {
-        "title": "How docker does the wonders that it does",
-        "text": "internals.md"
+        "title": "References",
+        "text": "references.md"
       }
     ],
     "intro": {
