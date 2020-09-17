@@ -6,15 +6,16 @@ It's time we :
 - push image to docker hub
 - pull image created by other participants and try running containers
 
-## How to build Docker Image - Dockerfile:
-
-A `Dockerfile` is a text document that contains all the commands a user could call on the command line to assemble an image.
-
+## How to build Docker Image:
 `docker build --help`{{execute}}
 
 The docker build command builds an image from a `Dockerfile` and a context. 
 The build’s context is the set of files at a specified location `PATH` or `URL`. The `PATH` is a directory on your local filesystem. The `URL` is a Git repository location.
 
+## Dockerfile:
+A `Dockerfile` is a text document that contains all the commands a user could call on the command line to assemble an image.
+
+## Dockerfile Instructions:
 `Dockerfile` supports certain instructions.
 Let's understand all possible instructions and how to use them. Post that we'll go ahead and create our own docker file.
 
