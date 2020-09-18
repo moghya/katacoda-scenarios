@@ -1,7 +1,5 @@
 
-This short tutorial is developed to get you started with containers, docker.
-
-It is not a goto guide for any issue that you would face while working with Containers and Docker.
+This short tutorial is developed to get started with containers, docker.
 
 ## Index:
 
@@ -32,7 +30,7 @@ It is not a goto guide for any issue that you would face while working with Cont
    1. Docker components
       1. Docker Client
       2. Docker Deamon
-      3. DockerHub
+      3. Docker Registry : DockerHub
    2. Containerisation primitives
       1. CGroups
       2. Namespaces
@@ -40,5 +38,7 @@ It is not a goto guide for any issue that you would face while working with Cont
 
 ### Appendix:
 8. References
+
+Note: It is not a goto guide for any issue that you would face while working with containers and docker.
 
 Let's get going.

@@ -23,6 +23,6 @@ Let's clarify once how containers are different than virtual machines.
 
 ## Container vs Virtual Machine:
 
-![Container](./images/container-elements.png)
+![Container](https://raw.githubusercontent.com/moghya/katacoda-scenarios/master/Understanding%20Docker/images/container-elements.png)
 
-![Virtual Machine](./images/virtual-machine-elements.png)
+![Virtual Machine](https://raw.githubusercontent.com/moghya/katacoda-scenarios/master/Understanding%20Docker/images/virtual-machine-elements.png)
