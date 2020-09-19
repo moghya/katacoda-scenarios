@@ -31,15 +31,18 @@ Let's build it and run it.
 
 `docker build -t linux_tweet_app .`{{execute}}
 
-`docker container run --d -p 80:80 linux_tweet_app`{{execute}}  
+`docker run -d -p 80:80 linux_tweet_app`{{execute}}  
 
 ## Push docker image to DockerHub:
 
+Sign up on DockerHub
 - https://hub.docker.com/
 
 `clear`{{execute}}
 
 `docker login`{{execute}}
+
+`docker build -t yourusername/linux_tweet_app .`
 
 `docker push yourusername/linux_tweet_app`
 
